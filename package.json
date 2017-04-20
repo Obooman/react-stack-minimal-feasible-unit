@@ -1,0 +1,29 @@
+{
+  "name": "react-stack-minimal-feasible-unit",
+  "version": "1.0.0",
+  "description": "A project mixed up react popular ecosystem libraries.",
+  "main": "index.js",
+  "dependencies": {
+    "next.js": "^1.0.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-motion": "^0.4.8",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obooman/react-stack-minimal-feasible-unit.git"
+  },
+  "keywords": [],
+  "author": "oboo chin <cheng.12@live.cn> (github.com/obooman)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obooman/react-stack-minimal-feasible-unit/issues"
+  },
+  "homepage": "https://github.com/Obooman/react-stack-minimal-feasible-unit#readme"
+}
